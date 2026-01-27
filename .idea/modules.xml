@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract-factory-ex.iml" filepath="$PROJECT_DIR$/Abstract-factory-ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Assignments.iml" filepath="$PROJECT_DIR$/.idea/Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory-method-ex.iml" filepath="$PROJECT_DIR$/Factory-method-ex.iml" />
     </modules>

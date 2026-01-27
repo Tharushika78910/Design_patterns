@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Factory-method-ex/pom.xml" />
+        <option value="$PROJECT_DIR$/Abstract-factory-ex/pom.xml" />
       </list>
     </option>
   </component>

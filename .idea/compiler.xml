@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Factory-method-ex" />
         <module name="Abstract-factory-ex" />
+        <module name="Composite-ex" />
       </profile>
     </annotationProcessing>
   </component>

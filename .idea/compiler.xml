@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Factory-method-ex" />
-        <module name="Abstract-factory-ex" />
+        <module name="Observer-ex" />
         <module name="Composite-ex" />
+        <module name="Abstract-factory-ex" />
       </profile>
     </annotationProcessing>
   </component>

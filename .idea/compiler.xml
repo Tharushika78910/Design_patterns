@@ -11,6 +11,7 @@
         <module name="Composite-ex" />
         <module name="Abstract-factory-ex" />
         <module name="Singleton-ex" />
+        <module name="Decorator-ex" />
       </profile>
     </annotationProcessing>
   </component>

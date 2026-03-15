@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/State-ex/pom.xml" />
         <option value="$PROJECT_DIR$/Template-ex/pom.xml" />
         <option value="$PROJECT_DIR$/Strategy-ex/pom.xml" />
+        <option value="$PROJECT_DIR$/Chain-of-responsibility-ex/pom.xml" />
       </list>
     </option>
   </component>

@@ -12,6 +12,7 @@
         <module name="State-ex" />
         <module name="Template-ex" />
         <module name="Strategy-ex" />
+        <module name="Chain-of-responsibility-ex" />
         <module name="Singleton-ex" />
         <module name="Decorator-ex" />
         <module name="Abstract-factory-ex" />

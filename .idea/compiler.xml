@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Memento-ex" />
         <module name="Factory-method-ex" />
         <module name="Observer-ex" />
         <module name="Composite-ex" />

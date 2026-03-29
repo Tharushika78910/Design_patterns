@@ -19,6 +19,7 @@
         <module name="Proxy-ex" />
         <module name="Chain-of-responsibility-ex" />
         <module name="Abstract-factory-ex" />
+        <module name="Builder-ex" />
       </profile>
     </annotationProcessing>
   </component>

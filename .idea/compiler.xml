@@ -17,6 +17,7 @@
         <module name="Factory-method-ex" />
         <module name="Composite-ex" />
         <module name="Proxy-ex" />
+        <module name="Adapter-ex" />
         <module name="Chain-of-responsibility-ex" />
         <module name="Abstract-factory-ex" />
         <module name="Builder-ex" />

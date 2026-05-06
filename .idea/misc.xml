@@ -20,6 +20,9 @@
         <option value="$PROJECT_DIR$/Builder-ex/pom.xml" />
         <option value="$PROJECT_DIR$/Adapter-ex/pom.xml" />
         <option value="$PROJECT_DIR$/Bridge-ex/pom.xml" />
+        <option value="$PROJECT_DIR$/Flyweight-ex/pom.xml" />
+        <option value="$PROJECT_DIR$/Facade-ex/pom.xml" />
+        <option value="$PROJECT_DIR$/Command-ex/pom.xml" />
       </list>
     </option>
   </component>

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Bridge-ex" />
         <module name="Observer-ex" />
+        <module name="Facade-ex" />
         <module name="State-ex" />
         <module name="Template-ex" />
         <module name="Strategy-ex" />
@@ -20,7 +21,9 @@
         <module name="Proxy-ex" />
         <module name="Adapter-ex" />
         <module name="Chain-of-responsibility-ex" />
+        <module name="Command-ex" />
         <module name="Abstract-factory-ex" />
+        <module name="Flyweight-ex" />
         <module name="Builder-ex" />
       </profile>
     </annotationProcessing>
